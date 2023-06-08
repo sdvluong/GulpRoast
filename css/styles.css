@@ -133,11 +133,6 @@ body {
     width: 80vw;
 
   }
-  .cntimage img{
-
-    object-fit: cover;
-    object-position: 0 50%;
-  }
 
 
 /* Product Page */
@@ -174,7 +169,7 @@ body {
       flex-basis: 50%;
     }
     .cntimage{
-      width: 40vw;
+      width: 40%;
     }
     /* Products Page */
     .productgrid{
@@ -196,7 +191,7 @@ body {
     /* Contact Page */
     .cntmain{
       align-items: center;
-      margin-right: 2rem;
+      margin: auto;
     }
     /* Product Page */
     .productgrid{
